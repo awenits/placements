@@ -1,3 +1,3 @@
-# C-CPP-DSA-Practice
+# C-CPP-DSA-SQL-Practice
 
-DSA Practice Questions 
+Practice for placements
