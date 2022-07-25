@@ -1,3 +1,3 @@
 # C-CPP-DSA-SQL-Practice
 
-Practice for placements
+This repository contains Data structures and Algorithms implementations and problems solved by me on various platforms like LeetCode, geeksforgeeks etc.
